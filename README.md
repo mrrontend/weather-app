@@ -1,6 +1,4 @@
-# weather-app
-
-## [Check it here](https://weather.fidalgo.dev/)
+# weather
 
 ### Project made from scratch using Vanilla JS
 
